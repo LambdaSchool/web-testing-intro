@@ -2,13 +2,13 @@
 
 ## Video I - What is testing
 
-Video link 📺 - https://youtu.be/tVpcLFGVYM4
+Instruction 📺 - Zoom
 
 Article Link 🖥 - https://kentcdodds.com/blog/how-to-know-what-to-test
 
 ## Video II - Unit Testing with Jest
 
-Video Link 📺 - https://youtu.be/T7dIBoA_Em0
+Instruction 📺 - Zoom
 
 Guided Project Starter ⌨️ - https://codesandbox.io/s/unit-testing-starter-xedhh
 
@@ -22,15 +22,11 @@ Guided Project Solution ⌨️ - https://codesandbox.io/s/unit-testing-final-679
 
 ## Video III - React Testing Library 🐙
 
-Video Link 📺 - https://youtu.be/irshbUTW0QY
+Instruction 📺 - Zoom
 
 RTL Docs 📝 - https://testing-library.com/docs/intro
 
 Guided Project Starter ⌨️ - https://codesandbox.io/s/testing-i-starter-or6d0
-
-_... one more quick video_
-
-Video Link 📺 - https://youtu.be/0UohqU4yNp8
 
 Guided Project Final ⌨️ - https://codesandbox.io/s/testing-i-starter-z3z2g
 
